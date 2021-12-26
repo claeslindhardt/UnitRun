@@ -7,6 +7,8 @@ Claes Lindhard(Coordinator and development)
 
 Hafsteinn Petursson(Game Developer)
 
+Daniel Hassellund Johansen(Mechanical Specialist)
+
 Daniel Grunkin(Game Developer)
 
 André Berlin(3D models)
