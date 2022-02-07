@@ -3,7 +3,7 @@ The Offical 3D Print It Yourself Board Game for Marco The Messeruring Catapillar
 More information: https://telvestad.no/marcoboardgame.html 
 
 
-## This Main concept and idear for this game was made by:
+### This Main concept and idear for this game was made by:
 
 Claes Lindhard(Coordinator and development)
 
