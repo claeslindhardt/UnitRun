@@ -2,23 +2,6 @@
 The Offical 3D Print It Yourself Board Game for Marco The Messeruring Catapillar
 More information: https://telvestad.no/marcoboardgame.html 
 
-
-### This Main concept and idear for this game was made by:
-
-Claes Lindhard(Coordinator and development)
-
-Hafsteinn Petursson(Game Developer)
-
-Daniel Hassellund Johansen(Mechanical Engineer)
-
-Daniel Grunkin(Game Development)
-
-André Berlin(3D models and Design)
-
-Arnulf Johannes Snedker-Nielsen(Game Developer)
-
-Jakob Schauser(Game Developer)
-
 ## Which parts should I have when I am done printing?:
  - Marianna the Bird
  - Marcos head and at least 5 body parts
@@ -37,3 +20,21 @@ Jakob Schauser(Game Developer)
 - At least 4 slalom-flag
 - A lake (draw it and cut it out from a piece of paper)
 - Good company
+
+### This Main concept and idear for this game was made by:
+
+Claes Lindhard(Coordinator and development)
+
+Hafsteinn Petursson(Game Developer)
+
+Daniel Hassellund Johansen(Mechanical Engineer)
+
+Daniel Grunkin(Game Development)
+
+André Berlin(3D models and Design)
+
+Arnulf Johannes Snedker-Nielsen(Game Developer)
+
+Jakob Schauser(Game Developer)
+
+
