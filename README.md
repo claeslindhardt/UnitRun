@@ -21,6 +21,9 @@ More information: https://telvestad.no/marcoboardgame.html
 - A lake (draw it and cut it out from a piece of paper)
 - Good company
 
+![image](https://user-images.githubusercontent.com/30341730/153749750-e1b5459a-02fa-434e-9c03-cd1f867d6d9e.png)
+
+
 ### This Main concept and idear for this game was made by:
 
 Claes Lindhard(Coordinator and development)
