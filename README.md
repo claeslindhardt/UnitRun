@@ -1,6 +1,8 @@
 # UnitRun
 The Offical 3D Print It Yourself Board Game for Marco The Messeruring Catapillar
 More information: https://telvestad.no/marcoboardgame.html 
+Trailer: https://www.youtube.com/watch?v=dQp6n-wvDfM
+How to play: https://youtu.be/O_KJIlpPZtU
 
 ## Which parts should I have when I am done printing?:
  - Marianna the Bird
